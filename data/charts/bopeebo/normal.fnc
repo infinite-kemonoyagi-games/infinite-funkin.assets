@@ -1416,11 +1416,11 @@
             "speed": null
         }
     ],
-    "allowedScore": true,
-    "allowedVocals": {
+    "_allowedVocals": {
         "bf": true,
         "dad": true
     },
+    "allowedScore": true,
     "events": [
         {
             "name": "focusCharacter",
