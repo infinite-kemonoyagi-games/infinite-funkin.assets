@@ -1,0 +1,222 @@
+{
+    "name": "Funkin",
+    "size": {
+        "x": 0.7,
+        "y": 0.7
+    },
+    "spriteType": {
+        "id": "sparrow",
+        "urls": [
+            {
+                "id": "default",
+                "path": "assets/images/note/funkin/note-assets"
+            },
+            {
+                "id": "sustain",
+                "path": "assets/images/note/funkin/sustain-note"
+            }
+        ]
+    },
+    "notes": [
+        {
+            "note": "left",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "note",
+                    "prefix": "purple",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain",
+                    "prefix": "purple hold piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain-end",
+                    "prefix": "purple end piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "down",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "note",
+                    "prefix": "blue",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain",
+                    "prefix": "blue hold piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain-end",
+                    "prefix": "blue end piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "up",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "note",
+                    "prefix": "green",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain",
+                    "prefix": "green hold piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain-end",
+                    "prefix": "green end piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "right",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "note",
+                    "prefix": "red",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain",
+                    "prefix": "red hold piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "sustain",
+                    "name": "sustain-end",
+                    "prefix": "red end piece",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "name": "Funkin",
+    "size": {
+        "x": 0.7,
+        "y": 0.7
+    },
+    "spriteType": {
+        "id": "sparrow",
+        "urls": [
+            {
+                "id": "default",
+                "path": "assets/images/note/funkin/strumnote-assets"
+            }
+        ]
+    },
+    "notes": [
+        {
+            "note": "left",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "static",
+                    "prefix": "arrowLEFT",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "pressed",
+                    "prefix": "left press",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "confirmed",
+                    "prefix": "left confirm",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": -13,
+                        "y": -13
+                    },
+                    "centerOffsets": true
+                }
+            ]
+        },
+        {
+            "note": "down",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "static",
+                    "prefix": "arrowDOWN",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "pressed",
+                    "prefix": "down press",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "confirmed",
+                    "prefix": "down confirm",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": -13,
+                        "y": -13
+                    },
+                    "centerOffsets": true
+                }
+            ]
+        },
+        {
+            "note": "up",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "static",
+                    "prefix": "arrowUP",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "pressed",
+                    "prefix": "up press",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "confirmed",
+                    "prefix": "up confirm",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": -13,
+                        "y": -13
+                    },
+                    "centerOffsets": true
+                }
+            ]
+        },
+        {
+            "note": "right",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "static",
+                    "prefix": "arrowRIGHT",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "pressed",
+                    "prefix": "right press",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "default",
+                    "name": "confirmed",
+                    "prefix": "right confirm",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": -13,
+                        "y": -13
+                    },
+                    "centerOffsets": true
+                }
+            ]
+        }
+    ]
+}
