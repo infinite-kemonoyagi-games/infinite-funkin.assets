@@ -1,0 +1,98 @@
+{
+    "name": "Funkin",
+    "size": {
+        "x": 0.7,
+        "y": 0.7
+    },
+    "spriteType": {
+        "id": "sparrow",
+        "urls": [
+            {
+                "id": "default",
+                "path": "assets/images/ui/funkin/note-effects/noteSplashes"
+            }
+        ]
+    },
+    "notes": [
+        {
+            "note": "left",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "splash",
+                    "prefix": "note impact 1 purple",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "down",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "splash",
+                    "prefix": "note impact 1 blue",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "up",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "splash",
+                    "prefix": "note impact 1 green",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "right",
+            "animations": [
+                {
+                    "path": "default",
+                    "name": "splash",
+                    "prefix": "note impact 1 red",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        }
+    ]
+}

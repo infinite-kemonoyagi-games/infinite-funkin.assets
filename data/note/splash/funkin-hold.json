@@ -1,0 +1,230 @@
+{
+    "name": "Funkin",
+    "size": {
+        "x": 0.7,
+        "y": 0.7
+    },
+    "spriteType": {
+        "id": "sparrow",
+        "urls": [
+            {
+                "id": "purple",
+                "path": "assets/images/ui/funkin/note-effects/holdCoverPurple"
+            },
+            {
+                "id": "blue",
+                "path": "assets/images/ui/funkin/note-effects/holdCoverBlue"
+            },
+            {
+                "id": "green",
+                "path": "assets/images/ui/funkin/note-effects/holdCoverGreen"
+            },
+            {
+                "id": "red",
+                "path": "assets/images/ui/funkin/note-effects/holdCoverRed"
+            }
+        ]
+    },
+    "notes": [
+        {
+            "note": "left",
+            "animations": [
+                {
+                    "path": "purple",
+                    "name": "start",
+                    "prefix": "holdCoverStartPurple",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "purple",
+                    "name": "idle",
+                    "prefix": "holdCoverPurple",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "purple",
+                    "name": "end",
+                    "prefix": "holdCoverEndPurple",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "down",
+            "animations": [
+                {
+                    "path": "blue",
+                    "name": "start",
+                    "prefix": "holdCoverStartBlue",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "blue",
+                    "name": "idle",
+                    "prefix": "holdCoverBlue",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "blue",
+                    "name": "end",
+                    "prefix": "holdCoverEndBlue",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "up",
+            "animations": [
+                {
+                    "path": "green",
+                    "name": "start",
+                    "prefix": "holdCoverStartGreen",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "green",
+                    "name": "idle",
+                    "prefix": "holdCoverGreen",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "green",
+                    "name": "end",
+                    "prefix": "holdCoverEndGreen",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "note": "right",
+            "animations": [
+                {
+                    "path": "red",
+                    "name": "start",
+                    "prefix": "holdCoverStartRed",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "red",
+                    "name": "idle",
+                    "prefix": "holdCoverRed",
+                    "framerate": 24,
+                    "looped": true,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "path": "red",
+                    "name": "end",
+                    "prefix": "holdCoverEndRed",
+                    "framerate": 24,
+                    "looped": false,
+                    "flip": {
+                        "x": false,
+                        "y": false
+                    },
+                    "offsets": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        }
+    ]
+}
