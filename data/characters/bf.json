@@ -1,0 +1,172 @@
+{
+    "name": "Boyfriend",
+    "size": {
+        "x": 0.7,
+        "y": 0.7
+    },
+    "camera": {
+        "x": 0,
+        "y": 0
+    },
+    "spriteType": {
+        "id": "sparrow",
+        "urls": [
+            {
+                "id": "default",
+                "path": "assets/images/characters/BOYFRIEND"
+            }
+        ]
+    },
+    "animations": [
+        {
+            "path": "default",
+            "name": "idle",
+            "prefix": "BF idle dance",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -5.0,
+                "y": 0.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "hey",
+            "prefix": "BF HEY!!",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -5.0,
+                "y": 0.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singLEFT",
+            "prefix": "BF NOTE LEFT0",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": 12.0,
+                "y": -6.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singLEFTmiss",
+            "prefix": "BF NOTE LEFT MISS",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": 12.0,
+                "y": 24.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singDOWN",
+            "prefix": "BF NOTE DOWN0",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -10.0,
+                "y": -50.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singDOWNmiss",
+            "prefix": "BF NOTE DOWN MISS",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -11.0,
+                "y": -19.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singUP",
+            "prefix": "BF NOTE UP0",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -29.0,
+                "y": 27.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singUPmiss",
+            "prefix": "BF NOTE UP MISS",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -29.0,
+                "y": 27.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singRIGHT",
+            "prefix": "BF NOTE RIGHT0",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -38.0,
+                "y": -7.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singRIGHTmiss",
+            "prefix": "BF NOTE RIGHT MISS",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -30.0,
+                "y": 21.0
+            }
+        }
+    ]
+}
