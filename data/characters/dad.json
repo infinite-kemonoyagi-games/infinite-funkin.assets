@@ -1,0 +1,97 @@
+{
+    "name": "Daddy Dearest",
+    "size": {
+        "x": 1.0,
+        "y": 1.0
+    },
+    "camera": {
+        "x": 0,
+        "y": 0
+    },
+    "spriteType": {
+        "id": "sparrow",
+        "urls": [
+            {
+                "id": "default",
+                "path": "assets/images/characters/daddyDearest"
+            }
+        ]
+    },
+    "animations": [
+        {
+            "path": "default",
+            "name": "idle",
+            "prefix": "idle",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singLEFT",
+            "prefix": "singLEFT",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -10.0,
+                "y": 10.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singDOWN",
+            "prefix": "singDOWN",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": 0.0,
+                "y": -30.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singUP",
+            "prefix": "singUP",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": -6.0,
+                "y": 50.0
+            }
+        },
+        {
+            "path": "default",
+            "name": "singRIGHT",
+            "prefix": "singRIGHT",
+            "framerate": 24,
+            "looped": false,
+            "flip": {
+                "x": true,
+                "y": false
+            },
+            "offsets": {
+                "x": 0.0,
+                "y": 27.0
+            }
+        }
+    ]
+}
