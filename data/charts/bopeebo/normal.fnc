@@ -1648,10 +1648,19 @@
     "events": [
         {
             "name": "focusCharacter",
-            "position": 2400,
+            "position": 0,
             "length": 0.65,
             "values": [
                 "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 2400,
+            "length": 0.65,
+            "values": [
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1660,7 +1669,7 @@
             "position": 4800,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1669,7 +1678,7 @@
             "position": 7200,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1678,7 +1687,7 @@
             "position": 9600,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1687,7 +1696,7 @@
             "position": 12000,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1696,7 +1705,7 @@
             "position": 14400,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1705,7 +1714,7 @@
             "position": 16800,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1714,7 +1723,7 @@
             "position": 19200,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1723,7 +1732,7 @@
             "position": 21600,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1732,7 +1741,7 @@
             "position": 24000,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1741,7 +1750,7 @@
             "position": 26400,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1750,7 +1759,7 @@
             "position": 28800,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1759,7 +1768,7 @@
             "position": 31200,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1768,7 +1777,7 @@
             "position": 33600,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1777,7 +1786,7 @@
             "position": 36000,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1786,7 +1795,7 @@
             "position": 38400,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1795,7 +1804,7 @@
             "position": 40800,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1804,7 +1813,7 @@
             "position": 43200,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1813,7 +1822,7 @@
             "position": 45600,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1822,7 +1831,7 @@
             "position": 48000,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1831,7 +1840,7 @@
             "position": 50400,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1840,7 +1849,7 @@
             "position": 52800,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1849,7 +1858,7 @@
             "position": 55200,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1858,7 +1867,7 @@
             "position": 57600,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1867,7 +1876,7 @@
             "position": 60000,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1876,7 +1885,7 @@
             "position": 62400,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1885,7 +1894,7 @@
             "position": 64800,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1894,7 +1903,7 @@
             "position": 67200,
             "length": 0.65,
             "values": [
-                "bf",
+                "dad",
                 "quadInOut"
             ]
         },
@@ -1903,7 +1912,7 @@
             "position": 69600,
             "length": 0.65,
             "values": [
-                "dad",
+                "bf",
                 "quadInOut"
             ]
         },
@@ -1912,22 +1921,13 @@
             "position": 72000,
             "length": 0.65,
             "values": [
-                "bf",
-                "quadInOut"
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 74400,
-            "length": 0.65,
-            "values": [
                 "dad",
                 "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
-            "position": 76800,
+            "position": 74400,
             "length": 0.65,
             "values": [
                 "bf",
