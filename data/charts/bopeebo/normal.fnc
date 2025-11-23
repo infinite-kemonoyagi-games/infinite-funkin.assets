@@ -10,6 +10,10 @@
         {
             "name": "dad",
             "type": "opponent"
+        },
+        {
+            "name": "gf",
+            "type": "girlfriend"
         }
     ],
     "skins": [
@@ -1644,263 +1648,295 @@
     "events": [
         {
             "name": "focusCharacter",
-            "position": 600,
-            "values": [
-                "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 1200,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 1800,
-            "values": [
-                "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
             "position": 2400,
+            "length": 0.65,
             "values": [
                 "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 3000,
-            "values": [
-                "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 3600,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 4200,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 4800,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 5400,
+            "length": 0.65,
             "values": [
                 "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 6000,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 6600,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 7200,
+            "length": 0.65,
             "values": [
                 "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 7800,
-            "values": [
-                "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 8400,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 9000,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 9600,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 10200,
+            "length": 0.65,
             "values": [
                 "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 10800,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 11400,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 12000,
+            "length": 0.65,
             "values": [
                 "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 12600,
-            "values": [
-                "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 13200,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 13800,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 14400,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 15000,
+            "length": 0.65,
             "values": [
                 "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 15600,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 16200,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 16800,
+            "length": 0.65,
             "values": [
                 "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 17400,
-            "values": [
-                "bf",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 18000,
-            "values": [
-                "dad",
-                0.35
-            ]
-        },
-        {
-            "name": "focusCharacter",
-            "position": 18600,
-            "values": [
-                "bf",
-                0.35
+                "quadInOut"
             ]
         },
         {
             "name": "focusCharacter",
             "position": 19200,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 21600,
+            "length": 0.65,
             "values": [
                 "dad",
-                0.35
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 24000,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 26400,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 28800,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 31200,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 33600,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 36000,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 38400,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 40800,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 43200,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 45600,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 48000,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 50400,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 52800,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 55200,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 57600,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 60000,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 62400,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 64800,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 67200,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 69600,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 72000,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 74400,
+            "length": 0.65,
+            "values": [
+                "dad",
+                "quadInOut"
+            ]
+        },
+        {
+            "name": "focusCharacter",
+            "position": 76800,
+            "length": 0.65,
+            "values": [
+                "bf",
+                "quadInOut"
             ]
         }
     ],
     "current": {
-        "girlfriend": "",
+        "girlfriend": "gf",
         "notes": "funkin",
         "strumline": "funkin",
         "opponent": "dad",
